@@ -1,7 +1,7 @@
-# .github
+# Deutro
 Deutro - An Information Science Media Company
 
-## Tagline
+## Overview
 A media platform specializing in designing 3D digital information environments and modeling Information Science systems.
 
 ## About
